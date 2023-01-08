@@ -1,0 +1,2 @@
+mumbai    singapore    20000    9 1 2023
+mumbai    berlin    50000    10 1 2023

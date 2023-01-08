@@ -1,0 +1,3 @@
+pune    delhi    12000    10 1 2023
+pune    mumbai    3000    12 1 2023
+pune    kolkata    8000    9 1 2023
